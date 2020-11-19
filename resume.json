@@ -2,9 +2,9 @@
   "basics": {
     "name": "Danny Huang",
     "label": "Programmer",
+    "picturePath": "https://raw.githubusercontent.com/DannyRH27/Jobsy/main/dist/danny.jpg",
     "openToOpps": true,
     "yourself": "Hi, my name is Danny and I enjoy solving complex problems with a mixture of analytical and creative thinking, and I particularly enjoy collaborating in a team to find unique solutions to hard problems.",
-    "idealCompany": "My ideal company is one that values individual employees and encourages them to speak up and share ideas about the long term vision/direction of the company, but also has a commitment to the employee's career growth.",
     "email": "danny.r.huang@gmail.com",
     "phone": "(858) 314-0788",
     "location": {
@@ -22,7 +22,7 @@
         "url": "https://www.linkedin.com/in/dannyrhuang/"
       },
       {
-        "network": "Angel List",
+        "network": "AngelList",
         "username": "Danny Huang",
         "url": "https://angel.co/u/danny-r-huang"
       },
@@ -73,7 +73,7 @@
       "website": "https://www.zenmodernasian.com/",
       "startDate": "2016-01-20",
       "endDate": "",
-      "summary": "I was the senior analyst for a portfolio of next generation commercial aircrafts performing data and risk analysis.",
+      "summary": "I opened a Taiwanese Asian-Fusion concept restaurant in San Diego, California.",
       "metadata": {
         "picturePath": "https://dannydash-seeds.s3-us-west-1.amazonaws.com/ReadMe/Jobsy/Zen.png",
         "linkPath": "https://www.yelp.com/biz/zen-modern-asian-san-diego?osq=zen+modern+asian",
@@ -84,8 +84,7 @@
       ]
     }
   ],
-  "volunteer": [
-  ],
+  "volunteer": [],
   "education": [
     {
       "institution": "San Diego State University",
@@ -98,7 +97,7 @@
       "studyType": "Bachelors",
       "startDate": "2011-01-01",
       "endDate": "2013-01-01",
-      "gpa": "4.0",
+      "gpa": "",
       "courses": [
         "Financial Analysis & MGMT",
         "Mathematical Economics",
@@ -187,17 +186,15 @@
       "summary": "I won Employee of the Month award for improving client relations by revamping budget reporting systems."
     }
   ],
-  "publications": [
-
-  ],
+  "publications": [],
   "skills": [
     { "name": "Ruby on Rails", "level": "Proficient", "years": 1 },
     { "name": "Express.js", "level": "Proficient", "years": 1 },
     { "name": "Node.js", "level": "Proficient", "years": 1 },
-    { "name": "Python", "level": "Proficient", "years": 1 },
-    { "name": "HTML", "level": "Proficient", "years": 1 },
-    { "name": "CSS", "level": "Proficient", "years": 1 },
-    { "name": "JavaScript", "level": "Proficient", "years": 1 },
+    { "name": "Python", "level": "Proficient", "years": 2 },
+    { "name": "HTML", "level": "Proficient", "years": 2 },
+    { "name": "CSS", "level": "Proficient", "years": 2 },
+    { "name": "JavaScript", "level": "Proficient", "years": 2 },
     { "name": "React", "level": "Proficient", "years": 1 },
     { "name": "Redux", "level": "Proficient", "years": 1 },
     { "name": "PostgreSQL", "level": "Proficient", "years": 1 },
